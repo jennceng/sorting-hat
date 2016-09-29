@@ -33,6 +33,8 @@ What house of hogwarts does Chelsea belong to?
 * Only the correctness of that answer should show
 * If you click the same answer again nothing happens
 
+---
+
 Pro-tips
 
 * plan before you code, first consider your component hierarchy
